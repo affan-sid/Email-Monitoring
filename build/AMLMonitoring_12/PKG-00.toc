@@ -1,0 +1,167 @@
+('D:\\AML Services\\AML Monitoring for '
+ 'Server\\build\\AMLMonitoring_12\\AMLMonitoring_12.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'D:\\AML Services\\AML Monitoring for '
+   'Server\\build\\AMLMonitoring_12\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'D:\\AML Services\\AML Monitoring for '
+   'Server\\build\\AMLMonitoring_12\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'D:\\AML Services\\AML Monitoring for '
+   'Server\\build\\AMLMonitoring_12\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'D:\\AML Services\\AML Monitoring for '
+   'Server\\build\\AMLMonitoring_12\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'D:\\AML Services\\AML Monitoring for '
+   'Server\\build\\AMLMonitoring_12\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'D:\\AML Services\\AML Monitoring for '
+   'Server\\build\\AMLMonitoring_12\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\Affan '
+   'Siddiqui\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\Affan '
+   'Siddiqui\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_win32comgenpy',
+   'C:\\Users\\Affan '
+   'Siddiqui\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_win32comgenpy.py',
+   'PYSOURCE'),
+  ('pyi_rth_pywintypes',
+   'C:\\Users\\Affan '
+   'Siddiqui\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks\\pyi_rth_pywintypes.py',
+   'PYSOURCE'),
+  ('pyi_rth_pythoncom',
+   'C:\\Users\\Affan '
+   'Siddiqui\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks\\pyi_rth_pythoncom.py',
+   'PYSOURCE'),
+  ('AMLMonitoring_12',
+   'D:\\AML Services\\AML Monitoring for Server\\AMLMonitoring_12.py',
+   'PYSOURCE'),
+  ('python311.dll',
+   'C:\\Users\\Affan '
+   'Siddiqui\\AppData\\Local\\Programs\\Python\\Python311\\python311.dll',
+   'BINARY'),
+  ('pywintypes311.dll',
+   'C:\\Users\\Affan '
+   'Siddiqui\\AppData\\Local\\Programs\\Python\\Python311\\pywintypes311.dll',
+   'BINARY'),
+  ('pywin32_system32\\pythoncom311.dll',
+   'C:\\Users\\Affan '
+   'Siddiqui\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pywin32_system32\\pythoncom311.dll',
+   'BINARY'),
+  ('_ctypes.pyd',
+   'C:\\Users\\Affan '
+   'Siddiqui\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('_decimal.pyd',
+   'C:\\Users\\Affan '
+   'Siddiqui\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Users\\Affan '
+   'Siddiqui\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('win32\\win32trace.pyd',
+   'C:\\Users\\Affan '
+   'Siddiqui\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32\\win32trace.pyd',
+   'EXTENSION'),
+  ('win32\\_win32sysloader.pyd',
+   'C:\\Users\\Affan '
+   'Siddiqui\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32\\_win32sysloader.pyd',
+   'EXTENSION'),
+  ('unicodedata.pyd',
+   'C:\\Users\\Affan '
+   'Siddiqui\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('select.pyd',
+   'C:\\Users\\Affan '
+   'Siddiqui\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Users\\Affan '
+   'Siddiqui\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_lzma.pyd',
+   'C:\\Users\\Affan '
+   'Siddiqui\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2.pyd',
+   'C:\\Users\\Affan '
+   'Siddiqui\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('Pythonwin\\win32ui.pyd',
+   'C:\\Users\\Affan '
+   'Siddiqui\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\Pythonwin\\win32ui.pyd',
+   'EXTENSION'),
+  ('win32\\win32api.pyd',
+   'C:\\Users\\Affan '
+   'Siddiqui\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\win32\\win32api.pyd',
+   'EXTENSION'),
+  ('_ssl.pyd',
+   'C:\\Users\\Affan '
+   'Siddiqui\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('pyodbc.cp311-win_amd64.pyd',
+   'C:\\Users\\Affan '
+   'Siddiqui\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pyodbc.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\Affan '
+   'Siddiqui\\AppData\\Local\\Programs\\Python\\Python311\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('VCRUNTIME140_1.dll',
+   'C:\\Users\\Affan '
+   'Siddiqui\\AppData\\Local\\Programs\\Python\\Python311\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('pywin32_system32\\pywintypes311.dll',
+   'C:\\Users\\Affan '
+   'Siddiqui\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pywin32_system32\\pywintypes311.dll',
+   'BINARY'),
+  ('libffi-8.dll',
+   'C:\\Users\\Affan '
+   'Siddiqui\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\libffi-8.dll',
+   'BINARY'),
+  ('libcrypto-3.dll',
+   'C:\\Users\\Affan '
+   'Siddiqui\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\libcrypto-3.dll',
+   'BINARY'),
+  ('Pythonwin\\mfc140u.dll',
+   'C:\\Users\\Affan '
+   'Siddiqui\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\Pythonwin\\mfc140u.dll',
+   'BINARY'),
+  ('libssl-3.dll',
+   'C:\\Users\\Affan '
+   'Siddiqui\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\libssl-3.dll',
+   'BINARY'),
+  ('base_library.zip',
+   'D:\\AML Services\\AML Monitoring for '
+   'Server\\build\\AMLMonitoring_12\\base_library.zip',
+   'DATA')],
+ 'python311.dll',
+ False,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)

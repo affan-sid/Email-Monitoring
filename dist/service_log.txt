@@ -1,0 +1,20 @@
+INFO:root:Service started.
+INFO:root:connection with outlook made.
+INFO:root:Service started.
+INFO:root:connection with outlook made.
+INFO:root:Service started.
+INFO:root:connection with outlook made.
+INFO:root:Service started.
+INFO:root:connection with outlook made.
+INFO:root:Service started.
+INFO:root:connection with outlook made.
+INFO:root:Service started.
+INFO:root:connection with outlook made.
+INFO:root:Service started.
+INFO:root:connection with outlook made.
+INFO:root:Service started.
+INFO:root:connection with outlook made.
+INFO:root:Service started.
+INFO:root:connection with outlook made.
+INFO:root:Service started.
+INFO:root:connection with outlook made.
